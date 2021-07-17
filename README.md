@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WLBailey0
-- 👀 I’m interested in Python, Web Development, and Application Development
-- 🌱 I’m currently learning Java and node.js
+- 👀 I’m interested in Java, Web Development, Application Development, & Python
+- 🌱 I’m currently learning Java and vue.js
 - 💞️ I’m looking to collaborate on ... anything!
-- 📫 You can reach me at WLBailey0@gmail.com
+- 📫 If you would likr to collaborate I can be reached at WLBailey0@gmail.com
 
 <!---
 WLBailey0/WLBailey0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
