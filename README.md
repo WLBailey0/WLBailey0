@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WLBailey0
 - 👀 I’m interested in Java, Web Development, Application Development, & Python
-- 🌱 I’m currently learning Java and vue.js
+- 🌱 I’m currently learning full stack Java development
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 If you would like to collaborate I can be reached at WLBailey0@gmail.com
 
