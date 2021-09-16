@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Web Development, Application Development, & Python
 - 🌱 I’m currently learning full stack Java development
 - 💞️ I’m looking to collaborate on ... anything!
-- 📫 If you would like to collaborate I can be reached at WLBailey0@gmail.com
+- 📫 I can be reached at WLBailey0@gmail.com
 
 <!---
 WLBailey0/WLBailey0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
